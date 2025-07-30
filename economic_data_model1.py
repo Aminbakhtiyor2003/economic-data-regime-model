@@ -11,8 +11,8 @@ import requests
 import pandas as pd
 from fredapi import Fred
 
-fred = Fred(api_key = 'fd0c3925530e1adec9762968a731218b')
-api_key = ('fd0c3925530e1adec9762968a731218b')
+fred = Fred(api_key = 'YOUR API KEY')
+api_key = ('YOUR API KEY')
 start_date = '1970-01-01'
 end_date = '2025-06-30'
 
